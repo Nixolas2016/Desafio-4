@@ -292,7 +292,7 @@ footer{
     "container" auto
     "footer"    50px;
 }
-/*.contact{
+.contact{
     position: relative;
     width: 14rem;
 }
@@ -329,9 +329,10 @@ footer{
     color: #ed7411;
     transform: translateY(-30px);
 }
-.formulario {
+.formulario2 {
     padding: 50px 10px 10px 120px;
-    margin: 10px 10px 10px 100p */
+    margin: 10px 10px 10px 100px
+}
 @media (max-width: 480px){
     .grid__container{
         background-color: white
